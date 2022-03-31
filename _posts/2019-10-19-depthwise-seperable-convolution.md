@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: Many modern CNN architectures such as Xception and Mobilenet make use of Depthwise Seperable Convolution to make them fast enough to run on mobile devices
-categories: [algebra, cnn, computervision, convolution, convolutionaneuralnetwork, datascience, DeepLearning, depthwiseseperableconvolution, dnn, embeddeddevices, google, mathematics, maths, mobiledevices, mobilenet, multimodealnetwork, neural-networks, plotly, python, xception]
+categories: [cnn, computervision, convolution, deeplearning]
 title: Depthwise Separable Convolutions in Deep Learning
 image: images/chart-preview.png
 ---
